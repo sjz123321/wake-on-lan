@@ -7,7 +7,7 @@ int main(int argc,char* argv[])
 	{
 		printf("netwake: usage: netwake [MAC Address(aa:bb:cc:dd:ee:ff)] [IP Address] [addtional options...]\n");
 		printf("\t-b [Boardcast Address]\n");
-		printf("\t-c Number of packets will be sent default: 4\n");
+		printf("\t-c Number of packets wi1ll be sent default: 4\n");
 		printf("\t-h display this help\n");
 		exit(0); 
 	}
